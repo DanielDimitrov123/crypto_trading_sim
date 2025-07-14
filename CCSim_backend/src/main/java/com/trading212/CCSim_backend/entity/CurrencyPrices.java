@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 @NoArgsConstructor
 @AllArgsConstructor
 @Component
-public class User {
+public class CurrencyPrices {
     private Long id;
     private String username;
     private Long balance;
